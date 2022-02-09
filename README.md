@@ -2,11 +2,11 @@
 
 ## Caso projeto não venha com a pasta padrão de teste:
 
-![Untitled](Selenium%209a49c2fc6ff44ad882d0288a79bc68e0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/53570263/153282518-0cf91e42-5e10-446e-b377-08686d2a518d.png)
 
-![Untitled](Selenium%209a49c2fc6ff44ad882d0288a79bc68e0/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/53570263/153282433-1caaed29-6e33-41d3-b962-1bd4b4b55d0d.png)
 
-![Untitled](Selenium%209a49c2fc6ff44ad882d0288a79bc68e0/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/53570263/153282480-d9687f1b-35ed-4a7e-b9a0-a4476748d538.png)
 
 Dentro do `src/test/java` cria a classe `HelloWorldSelenium` seu pacote será: `br.com.alura.leilao`
 
@@ -510,7 +510,7 @@ O objetivo era so chegar no formulario, para chegar na pagina de formulario e ca
 
 Continuando o metodo... precisamos  preencher os campos do formulario e enviar o formulario. E verificar se o leilão foi cadastrado.
 
-![Untitled](Selenium%209a49c2fc6ff44ad882d0288a79bc68e0/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/53570263/153282495-bfae6f48-30c8-4885-8f83-b88eafdc1d59.png)
 
 ```java
 @Test
